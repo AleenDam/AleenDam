@@ -11,3 +11,8 @@ I am a Python *developer in learning*
 
 This is my LinkedIn https://www.linkedin.com/in/aleen-dam-84ab7168/
 
+![My darlings, Julian&Miki](/home/dci-student/Downloads/IMG_0578.jpg)
+
+![My darling Tommy](/home/dci-student/Downloads/IMG_0625.jpg)
+
+![My darling Christof](/home/dci-student/Downloads/IMG_0595.jpg)
