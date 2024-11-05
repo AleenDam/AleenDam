@@ -4,7 +4,7 @@ I am a Python *developer in learning*
 - English & German & Czech language
 - SEO/SEA
 - Photoshop, Indesign
-- 
+- Python ... in the future
 
  My Pets
 1. Miki - Akita Inu, very stubborn Japanese dog
